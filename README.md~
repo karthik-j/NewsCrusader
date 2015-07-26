@@ -2,7 +2,7 @@
 
 ###Project Description
 
-The project was to build a fully functional News search engine with News Indexer with the following goals:
+The project was to a fully functional News search engine with News Indexer with the following goals:
 * Parse simple news articles with minimal markup
 * Index a decent sized subset of the given news corpus.
 * Create multiple indexes on the news articles as well as metadata.
